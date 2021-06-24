@@ -1,1 +1,1 @@
-# Basic Song changing using React and Redux
+# Basic Song changing Web App using React and Redux
